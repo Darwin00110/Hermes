@@ -55,6 +55,7 @@ This function has not yet been implemented; it will be assigned in the future wi
 
 Example CLI interface:
 
+![Hermes Menu](images/image.png)
 
 
 
