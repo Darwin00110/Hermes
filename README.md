@@ -50,6 +50,20 @@ This function has not yet been implemented; it will be assigned in the future wi
 - Windows command automation (`cmd /c start`)
 
 ---
+## Open
+
+- You can do open by the terminal
+- example:
+- git clone https://github.com/Darwin00110/Hermes.git
+- cd Hermes
+- start main.exe
+
+## Build
+- Example:
+- git clone https://github.com/Darwin00110/Hermes.git
+- cd Hermes
+- go build main.go
+- start main.exe
 
 ## Preview
 
